@@ -4,6 +4,7 @@ import React, { Component } from "react";
 import pahoMqtt from "paho-mqtt/paho-mqtt";
 import qr from "./qrcode_feeitadmin.github.io.png";
 import home from "./home.png";
+import uni_logo from "./uni_logo.jpg";
 
 class App extends Component {
   state = {
@@ -151,6 +152,11 @@ class App extends Component {
       <div className="wrapper">
         <h1>Connected Homes Demonstrator</h1>
         <div id="qr">
+          <img
+            src={uni_logo}
+            style={{ width: "100%", marginTop: "2em" }}
+            alt="QR code for virtual smart home controller"
+          />
           <h3>Scan to Control</h3>
           <img
             src={qr}
@@ -318,6 +324,16 @@ class App extends Component {
             value="Disconnect"
           />
         </form> */}
+        <p id="reference">
+          App developed by Senior Technician{" "}
+          <a
+            href="https://grahamcoulby.co.uk/"
+            target="_blank"
+            rel="noopenner noreferrer"
+          >
+            Graham Coulby
+          </a>
+        </p>
         <div id="messages" style={{ visibility: "hidden" }}>
           {this.state.messages.map((m, i) => (
             <p key={i}>{m}</p>
