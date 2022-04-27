@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/VirtualSmartHome/static/css/main.017cfff8.chunk.css",
-    "main.js": "/VirtualSmartHome/static/js/main.f5709a10.chunk.js",
-    "main.js.map": "/VirtualSmartHome/static/js/main.f5709a10.chunk.js.map",
+    "main.css": "/VirtualSmartHome/static/css/main.5a43cde0.chunk.css",
+    "main.js": "/VirtualSmartHome/static/js/main.b6d7606a.chunk.js",
+    "main.js.map": "/VirtualSmartHome/static/js/main.b6d7606a.chunk.js.map",
     "runtime-main.js": "/VirtualSmartHome/static/js/runtime-main.fa510968.js",
     "runtime-main.js.map": "/VirtualSmartHome/static/js/runtime-main.fa510968.js.map",
     "static/js/2.4068c9cd.chunk.js": "/VirtualSmartHome/static/js/2.4068c9cd.chunk.js",
@@ -10,14 +10,14 @@
     "static/js/3.7a01b639.chunk.js": "/VirtualSmartHome/static/js/3.7a01b639.chunk.js",
     "static/js/3.7a01b639.chunk.js.map": "/VirtualSmartHome/static/js/3.7a01b639.chunk.js.map",
     "index.html": "/VirtualSmartHome/index.html",
-    "static/css/main.017cfff8.chunk.css.map": "/VirtualSmartHome/static/css/main.017cfff8.chunk.css.map",
+    "static/css/main.5a43cde0.chunk.css.map": "/VirtualSmartHome/static/css/main.5a43cde0.chunk.css.map",
     "static/js/2.4068c9cd.chunk.js.LICENSE.txt": "/VirtualSmartHome/static/js/2.4068c9cd.chunk.js.LICENSE.txt",
     "static/media/home.7de33b97.png": "/VirtualSmartHome/static/media/home.7de33b97.png"
   },
   "entrypoints": [
     "static/js/runtime-main.fa510968.js",
     "static/js/2.4068c9cd.chunk.js",
-    "static/css/main.017cfff8.chunk.css",
-    "static/js/main.f5709a10.chunk.js"
+    "static/css/main.5a43cde0.chunk.css",
+    "static/js/main.b6d7606a.chunk.js"
   ]
 }
