@@ -2,7 +2,7 @@ import "./App.css";
 import React, { Component } from "react";
 // import Paho from "paho-mqtt/paho-mqtt";
 import pahoMqtt from "paho-mqtt/paho-mqtt";
-import qr from "./qrcode_gcoulby.github.io.png";
+import qr from "./qrcode_feeitadmin.github.io.png";
 import home from "./home.png";
 
 class App extends Component {
